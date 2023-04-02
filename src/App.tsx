@@ -7,7 +7,7 @@ const App: React.FC = () => {
     <TileEffect/>
     <div className="content">
         <div className="main-title">
-          <div>Orokucode</div>
+          {/* <div>Orokucode</div> */}
         </div>
     </div>
     </>
